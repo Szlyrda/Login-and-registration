@@ -1,0 +1,16 @@
+D:\Programowanie\Visual Studio Repos\Login and registration\bin\Debug\Login and registration.exe.config
+D:\Programowanie\Visual Studio Repos\Login and registration\bin\Debug\Login and registration.exe
+D:\Programowanie\Visual Studio Repos\Login and registration\bin\Debug\Login and registration.pdb
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.csproj.AssemblyReference.cache
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.csproj.SuggestedBindingRedirects.cache
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login_and_registration.formRegister.resources
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login_and_registration.formLogin.resources
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login_and_registration.Properties.Resources.resources
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.csproj.GenerateResource.cache
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.csproj.CoreCompileInputs.cache
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.exe
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.pdb
+D:\Programowanie\Visual Studio Repos\Login and registration\bin\Debug\Login and registration.exe.manifest
+D:\Programowanie\Visual Studio Repos\Login and registration\bin\Debug\Login and registration.application
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.exe.manifest
+D:\Programowanie\Visual Studio Repos\Login and registration\obj\Debug\Login and registration.application
